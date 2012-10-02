@@ -1,0 +1,61 @@
+@media only screen and (min-width : 480px) {
+
+.placeholder {
+  width: 480px;
+  margin: 0 auto;
+}
+
+}
+
+@media only screen and (min-width : 640px) {
+
+.placeholder {
+  width: 640px;
+  margin: 0 auto;
+}
+
+}
+
+@media only screen and (min-width : 960px) {
+
+.placeholder {
+  width: 950px;
+  margin: 0 auto;
+}
+
+}
+
+@media only screen and (min-width : 1024px) {
+
+.placeholder {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+}
+
+@media only screen and (min-width : 1140px) {
+
+.placeholder {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+}
+
+@media all{
+
+:focus {outline:0;}
+
+
+.error, .alert, .notice, .success, .info {padding:0.8em;margin-bottom:1em;border:2px solid #ddd;}
+.error, .alert {background:#fbe3e4;color:#8a1f11;border-color:#fbc2c4;}
+.notice {background:#fff6bf;color:#514721;border-color:#ffd324;}
+.success {background:#e6efc2;color:#264409;border-color:#c6d880;}
+.info {background:#d5edf8;color:#205791;border-color:#92cae4;}
+.error a, .alert a {color:#8a1f11;}
+.notice a {color:#514721;}
+.success a {color:#264409;}
+.info a {color:#205791;}
+
+}

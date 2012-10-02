@@ -1,0 +1,48 @@
+Lavci - Lavci is an extendable and light-weight framework focused making Web Design with CSS3 Easy.
+==============
+
+Grids - Lavci has a grid system that supports the modern and somewhat old computers too.
+------------
+
+These are the supported screen resolutions:
+
+* 480px
+* 640px
+* 960px
+* 1024px
+* 1140px
+
+Typography - Beautiful looking textonomy
+-------------
+
+These are the supported elements:
+
+* h1, h2, h3, h4, h5, h6
+* li 
+* pre
+* p
+* .error
+* .success
+* .warning
+* .notice
+* .code
+
+Forms - Creating forms for multiple deviceshas never been this easy
+------------
+
+Lavci provides a great way to style your font, responsively
+
+These are the supported types:
+
+* form
+* input[type="text/password/file/url"]
+* .ferror
+* label
+* .fsuccess
+* .warning
+* .fnotice
+
+Version History:
+
+v0.1 Alpha (current)
+v0.1.1 Alpha (in devevopment) (UAYOR)
